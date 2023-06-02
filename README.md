@@ -7,7 +7,7 @@ rosrun robo_rail RoboRailListener.py
 
 ## PRE-REQS:
 Install nanolib from nanotec to run software. Select python for windows/linux. Theres a README on how to install 
-https://en.nanotec.com/products/9985-nanolib
+[NanoLib](https://us.nanotec.com/products/9985-nanolib)
 
 Rospy needs to be installed.
 
